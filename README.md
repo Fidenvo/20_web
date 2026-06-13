@@ -24,3 +24,4 @@ thông tin mà người dùng không nhìn thấy trực tiếp trên giao diệ
 bảng mã ký tự, tiêu đề trang, liên kết tới tệp CSS hoặc JavaScript ngoài. Thẻ
 <body> chứa nội dung hiển thị thực tế như tiêu đề, đoạn văn, hình ảnh, liên kết,
 bảng biểu, biểu mẫu và các thành phần giao diện khác.
+<img width="1848" height="665" alt="image" src="https://github.com/user-attachments/assets/76f72abf-0ded-45c8-8036-114fe8c57001" />
